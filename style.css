@@ -1,0 +1,13 @@
+* { margin: 0; padding: 0 }
+
+header {
+	overflow: hidden;
+	height: 100vh;
+	background: url('tx.jpg') 100%/ cover
+}
+
+h2 {
+	color: white;
+	mix-blend-mode: difference;
+	font: 900 35vmin/35vh cookie, cursive;
+	text-align: center
