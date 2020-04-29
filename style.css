@@ -3,11 +3,21 @@
 header {
 	overflow: hidden;
 	height: 100vh;
-	background: url('tx.jpg') 100%/ cover
+	background: url('tx.jpg') 100%/ cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
 }
 
 h2 {
 	color: white;
 	mix-blend-mode: difference;
 	font: 900 35vmin/35vh cookie, cursive;
-	text-align: center
+	text-align: center;
+	
+}
+h3{
+	color: white;
+	mix-blend-mode: difference;
+}
